@@ -1,0 +1,65 @@
+body {
+  background: rgb(241, 215, 185);
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: 'Inter', sans-serif;
+  color: rgb(25, 26, 26);
+}
+
+nav {
+	border-bottom: 2px solid rgb(148, 146, 141);
+	font-weight: bold;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: rgb(238, 232, 225);
+}
+
+a:visited {
+	color: rgb(107, 74, 81);
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
+
+ul.a {
+	list-style-type: square;
+}
+#box {
+	background-color: rgb(228, 241, 241);
+	padding: 9px;
+	display: flex;
+	justify-content: center;
+	flex-wrap: nowrap;
+}
+
+h2 {
+	letter-spacing: 4px;
+	border-bottom: 2px solid balck;
+	font-weight: bolder;
+}
+
+.btn {
+	color: rgb(198, 238, 240);
+	background-color: rgb(80, 82, 78);
+	font-size: 16px;
+	padding: 4px;
+	border-radius: 20px;
+}
